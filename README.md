@@ -4,7 +4,7 @@ Easy WireGuard VPN server setup using wg-easy with web UI.
 
 ## Configuration
 
-- **FQDN**: wg.gamedns.hu
+- **FQDN**: FIll in YOURS
 - **WireGuard Port**: 4750 (UDP)
 - **Web UI Port**: 51821 (TCP)
 - **Client IP Range**: 10.8.0.x
