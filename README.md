@@ -1,4 +1,6 @@
-# WireGuard Easy Docker Compose Setup
+# IM NOT TAKING CREDIT FOR THE ORIGINAL AUTHOR. Please visit his website and his github page he created this not me this is just my working version of his compose file because the authors compose file did not work
+https://wg-easy.github.io/wg-easy/latest/examples/tutorials/basic-installation/
+https://github.com/wg-easy/wg-easy
 
 Easy WireGuard VPN server setup using wg-easy with web UI.
 
