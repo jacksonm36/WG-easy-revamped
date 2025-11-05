@@ -15,7 +15,7 @@ Easy WireGuard VPN server setup using wg-easy with web UI.
 
 1. Docker and Docker Compose installed
 2. Make sure ports 4750/UDP and 51821/TCP are open in your firewall
-3. Point your DNS A record for `wg.gamedns.hu` to your server's public IP address
+3. Point your DNS A record for your FQDN to your server's public IP address
 4. Enable IP forwarding on the host (already configured in container)
 
 ## Quick Start
