@@ -11,11 +11,11 @@ services:
       - INIT_ENABLED=true
       - INIT_USERNAME=admin
       - INIT_PASSWORD=changeme1234
-      - INIT_HOST=wg.gamedns.hu
+      - INIT_HOST= your FQDN or public IP
       - INIT_PORT=4750
       - INIT_DNS=1.1.1.1
       - INIT_IPV4_CIDR=10.8.0.0/24
-      - INIT_ALLOWED_IPS=0.0.0.0/0,192.168.1.254/24
+      - INIT_ALLOWED_IPS=0.0.0.0/0,192.168.1.254/24 # change to your desired network or ur subnet.
       - INSECURE=true
     networks:
       wg:
