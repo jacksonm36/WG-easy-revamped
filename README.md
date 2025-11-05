@@ -1,5 +1,9 @@
-# IM NOT TAKING CREDIT FOR THE ORIGINAL AUTHOR. Please visit his website and his github page he created this not me this is just my working version of his compose file because the authors compose file did not work
+# IM NOT TAKING CREDIT FOR THE ORIGINAL AUTHOR. Please visit his website and his github page he created this not me this is just my working version of his compose file because the authors compose file did not work for my and my friend and we wasted like 3 hours trying to get it working 
+
+
 https://wg-easy.github.io/wg-easy/latest/examples/tutorials/basic-installation/
+
+
 https://github.com/wg-easy/wg-easy
 
 Easy WireGuard VPN server setup using wg-easy with web UI.
